@@ -16,7 +16,7 @@ setup(
   author = 'Johan Kirsten',
   author_email = 'kirsten.johanf@gmail.com',
   url = 'https://github.com/johankirsten/fdtdempy',
-  download_url = 'https://github.com/johankirsten/fdtdempy/archive/v_01.tar.gz',
+  download_url = 'https://github.com/johankirsten/fdtdempy/archive/refs/tags/v_02.tar.gz',
   keywords = ['FDTD', 'Electromagnetism', 'Simulation'],
   classifiers=[
     'Development Status :: 3 - Alpha',
