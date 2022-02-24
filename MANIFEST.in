@@ -1,0 +1,2 @@
+global-include fdtdempy/*.pyx
+global-include fdtdempy/*.pxd
